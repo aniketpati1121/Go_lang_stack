@@ -1,0 +1,5 @@
+Run Command : go build 1_hello_world/main.go 
+#first up all folder name and after file name after build code 
+
+Run Command : ./main >run file name after code will be exectuted 
+Direct Run Command : go run 1_hello_world/main.go //go run and add folder and file name 
