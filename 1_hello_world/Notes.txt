@@ -3,3 +3,7 @@ Run Command : go build 1_hello_world/main.go
 
 Run Command : ./main >run file name after code will be exectuted 
 Direct Run Command : go run 1_hello_world/main.go //go run and add folder and file name 
+
+
+
+fMT means Format Package 

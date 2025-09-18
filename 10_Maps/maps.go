@@ -1,7 +1,5 @@
 package main
 
-import "fmt"
-
 // maps -> hash,object,dict
 
 func main() {
@@ -17,8 +15,11 @@ func main() {
 	// //getting an element
 	// fmt.Println(m["name"], m["age"], m["country"])
 
-	m := make(map[string]int)
-	m["a"] = 1
+	// m1 := map[string]int{"price": 40, "phones": 3}
+	// m2 := map[string]int{"price": 40, "phones": 3}
 
-	fmt.Println(m["a"])
+	// fmt.Println(maps.Equal(m1, m2)) // true
+
 }
+
+// go run 10_Maps/maps.go
